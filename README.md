@@ -29,6 +29,8 @@ And cite the [paper](TODO) for the original dataset:
 
 ## Metadata
 
+Contributor: Tollef Jørgensen 
+
 The following mapping was used to convert between the NorNE and UNER annotation tagsets:
 
 ```
