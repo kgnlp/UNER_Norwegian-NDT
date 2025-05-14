@@ -53,7 +53,7 @@ for lang in paths.keys():
 
                     for tok_idx, token_info in enumerate(sentence):
                         norne_tag = token_info["misc"].get("name", "-")
-                        uner_tag = mapping.get(norne_tag, "-")
+                        uner_tag = mapping[norne_tag]
 
                         uner_line = "\t".join(
                             [

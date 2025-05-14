@@ -866,7 +866,7 @@
 12	en	O	O	-
 13	ny	O	O	-
 14	norsk	O	O	-
-15	EU-debatt	-	B-DRV	-
+15	EU-debatt	O	B-DRV	-
 16	,	O	O	-
 17	er	O	O	-
 18	antagelig	O	O	-
@@ -4670,7 +4670,7 @@
 9	,	O	O	-
 10	minner	O	O	-
 11	om	O	O	-
-12	SA-mannen	-	B-DRV	-
+12	SA-mannen	O	B-DRV	-
 13	Horst	B-PER	B-PER	-
 14	Wessels	I-PER	I-PER	-
 15	skjebne	O	O	-
@@ -4942,7 +4942,7 @@
 6	innta	O	O	-
 7	rollen	O	O	-
 8	som	O	O	-
-9	Brodeck-bikkja	-	B-DRV	-
+9	Brodeck-bikkja	O	B-DRV	-
 10	i	O	O	-
 11	leiren	O	O	-
 12	;	O	O	-
@@ -5332,7 +5332,7 @@
 8	pågrepet	O	O	-
 9	utenfor	O	O	-
 10	en	O	O	-
-11	Kiwi-butikk	-	B-DRV	-
+11	Kiwi-butikk	O	B-DRV	-
 12	på	O	O	-
 13	Kråkerøy	B-LOC	B-GPE_LOC	-
 14	mens	O	O	-
@@ -6434,7 +6434,7 @@
 19	og	O	O	-
 20	tappet	O	O	-
 21	på	O	O	-
-22	Solo-flasker	-	B-DRV	-
+22	Solo-flasker	O	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 018452
@@ -7520,7 +7520,7 @@
 21	er	O	O	-
 22	at	O	O	-
 23	de	O	O	-
-24	Fortodol-kapslene	-	B-DRV	-
+24	Fortodol-kapslene	O	B-DRV	-
 25	Sverre	B-PER	B-PER	-
 26	har	O	O	-
 27	spist	O	O	-
@@ -8749,7 +8749,7 @@
 5	sykehuset	O	O	-
 6	,	O	O	-
 7	har	O	O	-
-8	Legemiddelverkene	-	B-DRV	-
+8	Legemiddelverkene	O	B-DRV	-
 9	i	O	O	-
 10	Sverige	B-LOC	B-GPE_LOC	-
 11	og	O	O	-
@@ -9087,7 +9087,7 @@
 16	det	O	O	-
 17	meste	O	O	-
 18	av	O	O	-
-19	Fortodolet	-	B-DRV	-
+19	Fortodolet	O	B-DRV	-
 20	som	O	O	-
 21	er	O	O	-
 22	solgt	O	O	-
@@ -9833,7 +9833,7 @@
 13	kontrollerer	O	O	-
 14	at	O	O	-
 15	alle	O	O	-
-16	Donsbach-produktene	-	B-DRV	-
+16	Donsbach-produktene	O	B-DRV	-
 17	kun	O	O	-
 18	inneholder	O	O	-
 19	det	O	O	-
@@ -10046,7 +10046,7 @@
 11	av	O	O	-
 12	forurensninger	O	O	-
 13	av	O	O	-
-14	Aristolochia-arter	-	B-DRV	-
+14	Aristolochia-arter	O	B-DRV	-
 15	i	O	O	-
 16	kinesisk	O	O	-
 17	slankemedisin	O	O	-
@@ -10462,7 +10462,7 @@
 6	Legemiddelverket	B-ORG	B-ORG	-
 7	,	O	O	-
 8	mener	O	O	-
-9	Fortodol-saken	-	B-DRV	-
+9	Fortodol-saken	O	B-DRV	-
 10	viser	O	O	-
 11	at	O	O	-
 12	Bransjerådets	B-ORG	B-ORG	-
@@ -11196,7 +11196,7 @@
 22	drittsted	O	O	-
 23	for	O	O	-
 24	wannabe-keege	O	O	-
-25	BI-folk	-	B-DRV	-
+25	BI-folk	O	B-DRV	-
 26	.	O	O	-
 
 # sent_id = 018707
@@ -11235,7 +11235,7 @@
 5	en	O	O	-
 6	33,3	O	O	-
 7	%	O	O	-
-8	Paradise	-	B-DRV	-
+8	Paradise	O	B-DRV	-
 9	Hotel-infiltrert	O	I-DRV	-
 10	trio	O	O	-
 11	.	O	O	-
@@ -11745,7 +11745,7 @@
 24	Ralph	O	B-PROD	-
 25	Lauren	O	I-PROD	-
 26	og	O	O	-
-27	Volt-klær	-	B-DRV	-
+27	Volt-klær	O	B-DRV	-
 28	,	O	O	-
 29	selvsagt	O	O	-
 30	)	O	O	-
@@ -12004,7 +12004,7 @@
 17	opp	O	O	-
 18	en	O	O	-
 19	"	O	O	-
-20	Horigans-jente	-	B-DRV	-
+20	Horigans-jente	O	B-DRV	-
 21	"	O	O	-
 22	men	O	O	-
 23	det	O	O	-
@@ -12056,7 +12056,7 @@
 24	på	O	O	-
 25	de	O	O	-
 26	ekle	O	O	-
-27	nelly.com-kledde	-	B-DRV	-
+27	nelly.com-kledde	O	B-DRV	-
 28	jentene	O	O	-
 29	som	O	O	-
 30	vanker	O	O	-
@@ -12853,7 +12853,7 @@
 9	dukket	O	O	-
 10	opp	O	O	-
 11	i	O	O	-
-12	Facebookfeeden	-	B-DRV	-
+12	Facebookfeeden	O	B-DRV	-
 13	min	O	O	-
 14	.	O	O	-
 
@@ -13594,7 +13594,7 @@
 3	annet	O	O	-
 4	sted	O	O	-
 5	i	O	O	-
-6	Oslo-området	-	B-DRV	-
+6	Oslo-området	O	B-DRV	-
 7	hadde	O	O	-
 8	far	O	O	-
 9	nettopp	O	O	-
@@ -20256,7 +20256,7 @@
 3	koster	O	O	-
 4	ikke	O	O	-
 5	den	O	O	-
-6	Chanelveska	-	B-DRV	-
+6	Chanelveska	O	B-DRV	-
 7	15	O	O	-
 8	000	O	O	-
 9	?	O	O	-
@@ -21772,9 +21772,9 @@
 19	ta	O	O	-
 20	på	O	O	-
 21	seg	O	O	-
-22	Goretexjakke	-	B-DRV	-
+22	Goretexjakke	O	B-DRV	-
 23	og	O	O	-
-24	Ulvangtrøye	-	B-DRV	-
+24	Ulvangtrøye	O	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 019287
@@ -22056,7 +22056,7 @@
 5	er	O	O	-
 6	originale	O	O	-
 7	fra	O	O	-
-8	Dunlop-fabrikken	-	B-DRV	-
+8	Dunlop-fabrikken	O	B-DRV	-
 9	.	O	O	-
 
 # sent_id = 019315
@@ -22447,7 +22447,7 @@
 3	kjøkkenet	O	O	-
 4	kommer	O	O	-
 5	fra	O	O	-
-6	Dunlop-fabrikken	-	B-DRV	-
+6	Dunlop-fabrikken	O	B-DRV	-
 7	,	O	O	-
 8	stolene	O	O	-
 9	fra	O	O	-
@@ -22845,7 +22845,7 @@
 21	om	O	O	-
 22	bilder	O	O	-
 23	fra	O	O	-
-24	Sovjet-tida	-	B-DRV	-
+24	Sovjet-tida	O	B-DRV	-
 25	.	O	O	-
 
 # sent_id = 019365
@@ -23334,7 +23334,7 @@
 # text = For eksempel Heli Rekula-bildet av jenta med skudd i panna og blodet rennende, med en kanin foran i et kaldt, grått kystlandskap.
 1	For	O	O	-
 2	eksempel	O	O	-
-3	Heli	-	B-DRV	-
+3	Heli	O	B-DRV	-
 4	Rekula-bildet	O	I-DRV	-
 5	av	O	O	-
 6	jenta	O	O	-
@@ -24632,7 +24632,7 @@
 
 # sent_id = 019484
 # text = Molde-hopperen har kommet fra det store intet, og sikret seg tolvteplass søndag.
-1	Molde-hopperen	-	B-DRV	-
+1	Molde-hopperen	O	B-DRV	-
 2	har	O	O	-
 3	kommet	O	O	-
 4	fra	O	O	-
@@ -25261,7 +25261,7 @@
 8	Diamanten	O	B-PROD	-
 9	»	O	O	-
 10	på	O	O	-
-11	Holmenkollen-tårnet	-	B-DRV	-
+11	Holmenkollen-tårnet	O	B-DRV	-
 12	da	O	O	-
 13	nettauksjonen	O	O	-
 14	ble	O	O	-
@@ -25294,7 +25294,7 @@
 8	av	O	O	-
 9	det	O	O	-
 10	historiske	O	O	-
-11	Holmenkollen-tårnet	-	B-DRV	-
+11	Holmenkollen-tårnet	O	B-DRV	-
 12	var	O	O	-
 13	37.300	O	O	-
 14	dollar	O	O	-
@@ -25356,7 +25356,7 @@
 2	av	O	O	-
 3	det	O	O	-
 4	historiske	O	O	-
-5	Holmenkollen-tårnet	-	B-DRV	-
+5	Holmenkollen-tårnet	O	B-DRV	-
 6	,	O	O	-
 7	den	O	O	-
 8	såkalte	O	O	-
@@ -26207,7 +26207,7 @@
 4	det	O	O	-
 5	klart	O	O	-
 6	at	O	O	-
-7	VIF-keeper	-	B-DRV	-
+7	VIF-keeper	O	B-DRV	-
 8	Patrick	B-PER	B-PER	-
 9	DesRochers	I-PER	I-PER	-
 10	har	O	O	-
@@ -26215,7 +26215,7 @@
 12	under	O	O	-
 13	treårsavtale	O	O	-
 14	med	O	O	-
-15	Oslo-klubben	-	B-DRV	-
+15	Oslo-klubben	O	B-DRV	-
 16	.	O	O	-
 
 # sent_id = 019574
@@ -26570,7 +26570,7 @@
 
 # sent_id = 019592
 # text = Ap-sekretæren har sett seg mektig lei på Frp angrep på regjeringens verdighetsgaranti i eldreomsorgen.
-1	Ap-sekretæren	-	B-DRV	-
+1	Ap-sekretæren	O	B-DRV	-
 2	har	O	O	-
 3	sett	O	O	-
 4	seg	O	O	-
@@ -26639,7 +26639,7 @@
 9	innenfor	O	O	-
 10	eldreomsorgen	O	O	-
 11	i	O	O	-
-12	Kommune-Norge	-	B-DRV	-
+12	Kommune-Norge	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 019596
@@ -26858,7 +26858,7 @@
 
 # sent_id = 019605
 # text = Ap-sekretæren frykter det til slutt vil tvinge seg fram en diskusjon om øremerkede tilskudd for å ruste opp eldreomsorgen i kommunene.
-1	Ap-sekretæren	-	B-DRV	-
+1	Ap-sekretæren	O	B-DRV	-
 2	frykter	O	O	-
 3	det	O	O	-
 4	til	O	O	-
@@ -26977,7 +26977,7 @@
 # sent_id = 019611
 # text = Men Ap-sekretæren frykter for eldreløftet dersom høyrepartiene overtar makten.
 1	Men	O	O	-
-2	Ap-sekretæren	-	B-DRV	-
+2	Ap-sekretæren	O	B-DRV	-
 3	frykter	O	O	-
 4	for	O	O	-
 5	eldreløftet	O	O	-
@@ -27046,7 +27046,7 @@
 3	imidlertid	O	O	-
 4	at	O	O	-
 5	også	O	O	-
-6	Ap-styrte	-	B-DRV	-
+6	Ap-styrte	O	B-DRV	-
 7	kommuner	O	O	-
 8	må	O	O	-
 9	ta	O	O	-
@@ -27137,7 +27137,7 @@
 10	for	O	O	-
 11	kjøpet	O	O	-
 12	av	O	O	-
-13	F-35-flyene	-	B-DRV	-
+13	F-35-flyene	O	B-DRV	-
 14	skaper	O	O	-
 15	berettiget	O	O	-
 16	uro	O	O	-
@@ -27492,7 +27492,7 @@
 2	melder	O	O	-
 3	at	O	O	-
 4	selv	O	O	-
-5	F-35-tilhenger	-	B-DRV	-
+5	F-35-tilhenger	O	B-DRV	-
 6	Robert	B-PER	B-PER	-
 7	Gates	I-PER	I-PER	-
 8	nå	O	O	-
@@ -28043,7 +28043,7 @@
 
 # sent_id = 019663
 # text = Midtøsten-ekspert Knut S. Vikør frykter at sivile i Gaddafis resterende maktbaser kan bli utsatt for hevntokt av opprørerne.
-1	Midtøsten-ekspert	-	B-DRV	-
+1	Midtøsten-ekspert	O	B-DRV	-
 2	Knut	B-PER	B-PER	-
 3	S.	I-PER	I-PER	-
 4	Vikør	I-PER	I-PER	-
@@ -28406,7 +28406,7 @@
 # text = Søndag bombet Nato-fly fortsatt mål i byen Sirte, 55 mil øst for Tripoli.
 1	Søndag	O	O	-
 2	bombet	O	O	-
-3	Nato-fly	-	B-DRV	-
+3	Nato-fly	O	B-DRV	-
 4	fortsatt	O	O	-
 5	mål	O	O	-
 6	i	O	O	-
@@ -28500,7 +28500,7 @@
 15	konsekvensene	O	O	-
 16	for	O	O	-
 17	sivile	O	O	-
-18	Gaddafi-tilhengere	-	B-DRV	-
+18	Gaddafi-tilhengere	O	B-DRV	-
 19	.	O	O	-
 
 # sent_id = 019688
@@ -28525,7 +28525,7 @@
 5	om	O	O	-
 6	drap	O	O	-
 7	på	O	O	-
-8	Gaddafi-lojalister	-	B-DRV	-
+8	Gaddafi-lojalister	O	B-DRV	-
 9	flere	O	O	-
 10	steder	O	O	-
 11	i	O	O	-
@@ -28543,7 +28543,7 @@
 7	frykte	O	O	-
 8	hevntokter	O	O	-
 9	mot	O	O	-
-10	Gaddafi	-	B-DRV	-
+10	Gaddafi	O	B-DRV	-
 11	lojalister	O	I-DRV	-
 12	i	O	O	-
 13	Sirte	B-LOC	B-GPE_LOC	-
@@ -28581,7 +28581,7 @@
 1	Sirte	B-LOC	B-GPE_LOC	-
 2	er	O	O	-
 3	et	O	O	-
-4	Gaddafi-lojalt	-	B-DRV	-
+4	Gaddafi-lojalt	O	B-DRV	-
 5	sentrum	O	O	-
 6	med	O	O	-
 7	svært	O	O	-
@@ -29058,7 +29058,7 @@
 14	er	O	O	-
 15	sterkest	O	O	-
 16	i	O	O	-
-17	Jan	-	B-DRV	-
+17	Jan	O	B-DRV	-
 18	Mayen-området	O	I-DRV	-
 19	,	O	O	-
 20	nemlig	O	O	-
@@ -31171,7 +31171,7 @@
 30	energi	O	O	-
 31	som	O	O	-
 32	20	O	O	-
-33	Sauda-utbygginger	-	B-DRV	-
+33	Sauda-utbygginger	O	B-DRV	-
 34	utgjør	O	O	-
 35	.	O	O	-
 
@@ -32626,7 +32626,7 @@
 8	ulike	O	O	-
 9	deler	O	O	-
 10	av	O	O	-
-11	distrikts-Norge	-	B-DRV	-
+11	distrikts-Norge	O	B-DRV	-
 12	uten	O	O	-
 13	konkurransevridning	O	O	-
 14	og	O	O	-
@@ -35885,7 +35885,7 @@
 10	og	O	O	-
 11	den	O	O	-
 12	første	O	O	-
-13	"	-	B-DRV	-
+13	"	O	B-DRV	-
 14	Norvegia	O	I-DRV	-
 15	"	O	I-DRV	-
 16	-ekspedisjonen	O	I-DRV	-

@@ -3,6 +3,7 @@
 
 # from norne -> uner tags.
 mapping = {
+    "B-DRV": "O",
     "B-EVT": "O",
     "B-GPE_LOC": "B-LOC",
     "B-GPE_ORG": "B-ORG",

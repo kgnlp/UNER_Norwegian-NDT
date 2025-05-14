@@ -1342,7 +1342,7 @@
 # newpar
 # sent_id = 015767
 # text = Borten-biografi.
-1	Borten-biografi	-	B-DRV	-
+1	Borten-biografi	O	B-DRV	-
 2	.	O	O	-
 
 # sent_id = 015768
@@ -1526,7 +1526,7 @@
 13	og	O	O	-
 14	fremst	O	O	-
 15	i	O	O	-
-16	EF-saken	-	B-DRV	-
+16	EF-saken	O	B-DRV	-
 17	,	O	O	-
 18	tæret	O	O	-
 19	så	O	O	-
@@ -1603,7 +1603,7 @@
 13	i	O	O	-
 14	den	O	O	-
 15	uforsonlige	O	O	-
-16	EF-kampen	-	B-DRV	-
+16	EF-kampen	O	B-DRV	-
 17	mente	O	O	-
 18	deres	O	O	-
 19	sak	O	O	-
@@ -1612,7 +1612,7 @@
 22	tjent	O	O	-
 23	med	O	O	-
 24	at	O	O	-
-25	Borten-regjeringen	-	B-DRV	-
+25	Borten-regjeringen	O	B-DRV	-
 26	gikk	O	O	-
 27	av	O	O	-
 28	.	O	O	-
@@ -1631,7 +1631,7 @@
 10	langvarig	O	O	-
 11	og	O	O	-
 12	maktfullkomment	O	O	-
-13	Ap-styre	-	B-DRV	-
+13	Ap-styre	O	B-DRV	-
 14	,	O	O	-
 15	møtte	O	O	-
 16	sin	O	O	-
@@ -1771,7 +1771,7 @@
 13	radiointervjuer	O	O	-
 14	med	O	O	-
 15	tidligere	O	O	-
-16	Dagsnytt-redaktør	-	B-DRV	-
+16	Dagsnytt-redaktør	O	B-DRV	-
 17	Per	B-PER	B-PER	-
 18	Bøhn	I-PER	I-PER	-
 19	og	O	O	-
@@ -2255,7 +2255,7 @@
 4	er	O	O	-
 5	stolte	O	O	-
 6	over	O	O	-
-7	NATO-medlemskapet	-	B-DRV	-
+7	NATO-medlemskapet	O	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 015805
@@ -2360,7 +2360,7 @@
 # text = - Som NATO-medlemsland er Albania beredt til å ta opp alle utfordringer og ansvar som deltakelsen i alliansen krever, sa han.
 1	-	O	O	-
 2	Som	O	O	-
-3	NATO-medlemsland	-	B-DRV	-
+3	NATO-medlemsland	O	B-DRV	-
 4	er	O	O	-
 5	Albania	B-ORG	B-GPE_ORG	-
 6	beredt	O	O	-
@@ -2393,8 +2393,8 @@
 6	allerede	O	O	-
 7	til	O	O	-
 8	den	O	O	-
-9	NATO-ledede	-	B-DRV	-
-10	ISAF-styrken	-	B-DRV	-
+9	NATO-ledede	O	B-DRV	-
+10	ISAF-styrken	O	B-DRV	-
 11	i	O	O	-
 12	Afghanistan	B-LOC	B-GPE_LOC	-
 13	.	O	O	-
@@ -2453,7 +2453,7 @@
 15	standarder	O	O	-
 16	,	O	O	-
 17	sier	O	O	-
-18	NATO-talsmann	-	B-DRV	-
+18	NATO-talsmann	O	B-DRV	-
 19	James	B-PER	B-PER	-
 20	Appathurai	I-PER	I-PER	-
 21	.	O	O	-
@@ -2649,7 +2649,7 @@
 13	de	O	O	-
 14	andre	O	O	-
 15	utenfor	O	O	-
-16	NATO-hovedkvarteret	-	B-DRV	-
+16	NATO-hovedkvarteret	O	B-DRV	-
 17	i	O	O	-
 18	Brussel	B-LOC	B-GPE_LOC	-
 19	.	O	O	-
@@ -2776,7 +2776,7 @@
 12	B	O	O	-
 13	-	O	O	-
 14	en	O	O	-
-15	Ap-regjering	-	B-DRV	-
+15	Ap-regjering	O	B-DRV	-
 16	i	O	O	-
 17	mindretall	O	O	-
 18	-	O	O	-
@@ -3032,7 +3032,7 @@
 5	at	O	O	-
 6	mange	O	O	-
 7	halvhjertede	O	O	-
-8	Ap-velgere	-	B-DRV	-
+8	Ap-velgere	O	B-DRV	-
 9	blir	O	O	-
 10	sittende	O	O	-
 11	hjemme	O	O	-
@@ -3326,9 +3326,9 @@
 34	å	O	O	-
 35	dempe	O	O	-
 36	utspillskåte	O	O	-
-37	SV-ere	-	B-DRV	-
+37	SV-ere	O	B-DRV	-
 38	og	O	O	-
-39	Sp-ere	-	B-DRV	-
+39	Sp-ere	O	B-DRV	-
 40	.	O	O	-
 
 # sent_id = 015848
@@ -3465,7 +3465,7 @@
 
 # sent_id = 015853
 # text = Venstre-leder Lars Sponheim etterlater ingen tvil om at han heller vil ha en Ap-regjering i mindretall enn en der Frp er med.
-1	Venstre-leder	-	B-DRV	-
+1	Venstre-leder	O	B-DRV	-
 2	Lars	B-PER	B-PER	-
 3	Sponheim	I-PER	I-PER	-
 4	etterlater	O	O	-
@@ -3478,7 +3478,7 @@
 11	vil	O	O	-
 12	ha	O	O	-
 13	en	O	O	-
-14	Ap-regjering	-	B-DRV	-
+14	Ap-regjering	O	B-DRV	-
 15	i	O	O	-
 16	mindretall	O	O	-
 17	enn	O	O	-
@@ -3494,7 +3494,7 @@
 1	Det	O	O	-
 2	vil	O	O	-
 3	også	O	O	-
-4	KrF-leder	-	B-DRV	-
+4	KrF-leder	O	B-DRV	-
 5	Dagfinn	B-PER	B-PER	-
 6	Høybråten	I-PER	I-PER	-
 7	selv	O	O	-
@@ -4014,7 +4014,7 @@
 3	flere	O	O	-
 4	diplomater	O	O	-
 5	og	O	O	-
-6	Asia-eksperter	-	B-DRV	-
+6	Asia-eksperter	O	B-DRV	-
 7	til	O	O	-
 8	The	B-ORG	B-ORG	-
 9	Washington	I-ORG	I-ORG	-
@@ -4085,7 +4085,7 @@
 16	men	O	O	-
 17	Clinton	B-PER	B-PER	-
 18	og	O	O	-
-19	Obama-administrasjonen	-	B-DRV	-
+19	Obama-administrasjonen	O	B-DRV	-
 20	hadde	O	O	-
 21	på	O	O	-
 22	forhånd	O	O	-
@@ -4866,7 +4866,7 @@
 # text = Flertallet av Høyre-velgerne mener deres parti kan danne regjering med Frp.
 1	Flertallet	O	O	-
 2	av	O	O	-
-3	Høyre-velgerne	-	B-DRV	-
+3	Høyre-velgerne	O	B-DRV	-
 4	mener	O	O	-
 5	deres	O	O	-
 6	parti	O	O	-
@@ -4975,7 +4975,7 @@
 11	1980-tallet	O	O	-
 12	,	O	O	-
 13	da	O	O	-
-14	NRK-monopolet	-	B-DRV	-
+14	NRK-monopolet	O	B-DRV	-
 15	ble	O	O	-
 16	opphevet	O	O	-
 17	,	O	O	-
@@ -5121,7 +5121,7 @@
 33	den	O	O	-
 34	mening	O	O	-
 35	ledende	O	O	-
-36	Høyre-ideologer	-	B-DRV	-
+36	Høyre-ideologer	O	B-DRV	-
 37	har	O	O	-
 38	definert	O	O	-
 39	sin	O	O	-
@@ -5199,7 +5199,7 @@
 37	til	O	O	-
 38	å	O	O	-
 39	gjenopplive	O	O	-
-40	Bondevik-alliansen	-	B-DRV	-
+40	Bondevik-alliansen	O	B-DRV	-
 41	med	O	O	-
 42	Kristelig	B-ORG	B-ORG	-
 43	Folkeparti	I-ORG	I-ORG	-
@@ -5614,7 +5614,7 @@
 5	enda	O	O	-
 6	verre	O	O	-
 7	for	O	O	-
-8	Høyre-ledelsen	-	B-DRV	-
+8	Høyre-ledelsen	O	B-DRV	-
 9	,	O	O	-
 10	men	O	O	-
 11	forklaringen	O	O	-
@@ -5623,7 +5623,7 @@
 14	er	O	O	-
 15	neppe	O	O	-
 16	at	O	O	-
-17	Høyre-velgerne	-	B-DRV	-
+17	Høyre-velgerne	O	B-DRV	-
 18	har	O	O	-
 19	en	O	O	-
 20	sterk	O	O	-
@@ -5733,7 +5733,7 @@
 4	51	O	O	-
 5	prosent	O	O	-
 6	av	O	O	-
-7	Høyre-velgerne	-	B-DRV	-
+7	Høyre-velgerne	O	B-DRV	-
 8	at	O	O	-
 9	Høyre	B-ORG	B-ORG	-
 10	godt	O	O	-
@@ -5939,7 +5939,7 @@
 7	er	O	O	-
 8	likestilte	O	O	-
 9	i	O	O	-
-10	Høyre-lederens	-	B-DRV	-
+10	Høyre-lederens	O	B-DRV	-
 11	hode	O	O	-
 12	og	O	O	-
 13	strategi	O	O	-
@@ -5969,7 +5969,7 @@
 20	en	O	O	-
 21	gjenoppstandelse	O	O	-
 22	av	O	O	-
-23	Bondevik-koalisjonen	-	B-DRV	-
+23	Bondevik-koalisjonen	O	B-DRV	-
 24	,	O	O	-
 25	denne	O	O	-
 26	gangen	O	O	-
@@ -6043,7 +6043,7 @@
 3	riktignok	O	O	-
 4	hver	O	O	-
 5	fjerde	O	O	-
-6	Høyre-velger	-	B-DRV	-
+6	Høyre-velger	O	B-DRV	-
 7	at	O	O	-
 8	han	O	O	-
 9	foretrekker	O	O	-
@@ -6298,7 +6298,7 @@
 1	Når	O	O	-
 2	hver	O	O	-
 3	tredje	O	O	-
-4	Høyre-velger	-	B-DRV	-
+4	Høyre-velger	O	B-DRV	-
 5	vil	O	O	-
 6	ha	O	O	-
 7	en	O	O	-
@@ -6321,7 +6321,7 @@
 24	er	O	O	-
 25	en	O	O	-
 26	ren	O	O	-
-27	Høyre-regjering	-	B-DRV	-
+27	Høyre-regjering	O	B-DRV	-
 28	,	O	O	-
 29	er	O	O	-
 30	ikke	O	O	-
@@ -6537,7 +6537,7 @@
 33	en	O	O	-
 34	gjenopplivning	O	O	-
 35	av	O	O	-
-36	Bondevik-alliansen	-	B-DRV	-
+36	Bondevik-alliansen	O	B-DRV	-
 37	.	O	O	-
 
 # sent_id = 015984
@@ -6832,7 +6832,7 @@
 2	faren	O	O	-
 3	ser	O	O	-
 4	nok	O	O	-
-5	SV-lederen	-	B-DRV	-
+5	SV-lederen	O	B-DRV	-
 6	selv	O	O	-
 7	.	O	O	-
 
@@ -7011,7 +7011,7 @@
 27	er	O	O	-
 28	greit	O	O	-
 29	at	O	O	-
-30	Ap-politikere	-	B-DRV	-
+30	Ap-politikere	O	B-DRV	-
 31	som	O	O	-
 32	Jan	B-PER	B-PER	-
 33	Bøhler	I-PER	I-PER	-
@@ -7932,7 +7932,7 @@
 3	i	O	O	-
 4	arbeidslivet	O	O	-
 5	eller	O	O	-
-6	Nav-etaten	-	B-DRV	-
+6	Nav-etaten	O	B-DRV	-
 7	får	O	O	-
 8	følelsen	O	O	-
 9	av	O	O	-
@@ -8035,7 +8035,7 @@
 16	klimaforhandlingene	O	O	-
 17	frem	O	O	-
 18	til	O	O	-
-19	København-møtet	-	B-DRV	-
+19	København-møtet	O	B-DRV	-
 20	.	O	O	-
 
 # sent_id = 016051
@@ -10823,7 +10823,7 @@
 7	,	O	O	-
 8	sa	O	O	-
 9	Kasakhstans	B-ORG	B-GPE_ORG	-
-10	London-ambassadør	-	B-DRV	-
+10	London-ambassadør	O	B-DRV	-
 11	om	O	O	-
 12	Borat	B-PER	B-PER	-
 13	.	O	O	-
@@ -11416,7 +11416,7 @@
 6	til	O	O	-
 7	en	O	O	-
 8	stor	O	O	-
-9	Kasakhstan-rundtur	-	B-DRV	-
+9	Kasakhstan-rundtur	O	B-DRV	-
 10	.	O	O	-
 
 # sent_id = 016270
@@ -11810,7 +11810,7 @@
 7	politikere	O	O	-
 8	-	O	O	-
 9	og	O	O	-
-10	LO-folk	-	B-DRV	-
+10	LO-folk	O	B-DRV	-
 11	,	O	O	-
 12	av	O	O	-
 13	alle	O	O	-
@@ -14212,7 +14212,7 @@
 6	har	O	O	-
 7	lyst	O	O	-
 8	på	O	O	-
-9	Omaggio-vaser	-	B-DRV	-
+9	Omaggio-vaser	O	B-DRV	-
 10	jeg	O	O	-
 11	også	O	O	-
 12	.	O	O	-
@@ -14632,7 +14632,7 @@
 3	mens	O	O	-
 4	resten	O	O	-
 5	av	O	O	-
-6	Instagramfolket	-	B-DRV	-
+6	Instagramfolket	O	B-DRV	-
 7	pakket	O	O	-
 8	skiboksene	O	O	-
 9	sine	O	O	-
@@ -16712,7 +16712,7 @@
 2	veggen	O	O	-
 3	henger	O	O	-
 4	en	O	O	-
-5	United-plakat	-	B-DRV	-
+5	United-plakat	O	B-DRV	-
 6	,	O	O	-
 7	oppetter	O	O	-
 8	veggen	O	O	-
@@ -18084,7 +18084,7 @@
 1	Læreren	O	O	-
 2	spiller	O	O	-
 3	en	O	O	-
-4	Michael	-	B-DRV	-
+4	Michael	O	B-DRV	-
 5	Kiwanuka-låt	O	I-DRV	-
 6	og	O	O	-
 7	spør	O	O	-
@@ -21567,7 +21567,7 @@
 11	alle	O	O	-
 12	de	O	O	-
 13	homofile	O	O	-
-14	Premier	-	B-DRV	-
+14	Premier	O	B-DRV	-
 15	League-spillerne	O	I-DRV	-
 16	?	O	O	-
 
@@ -21926,7 +21926,7 @@
 4	snart	O	O	-
 5	ut	O	O	-
 6	i	O	O	-
-7	London-natta	-	B-DRV	-
+7	London-natta	O	B-DRV	-
 8	.	O	O	-
 
 # sent_id = 016984
@@ -22496,7 +22496,7 @@
 1	Med	O	O	-
 2	et	O	O	-
 3	utvidet	O	O	-
-4	«	-	B-DRV	-
+4	«	O	B-DRV	-
 5	Gjærbägst	O	I-DRV	-
 6	and	O	I-DRV	-
 7	the	O	I-DRV	-
@@ -22734,7 +22734,7 @@
 3	er	O	O	-
 4	det	O	O	-
 5	imidlertid	O	O	-
-6	«	-	B-DRV	-
+6	«	O	B-DRV	-
 7	Guitar	O	I-DRV	-
 8	Hero	O	I-DRV	-
 9	»	O	I-DRV	-
@@ -22875,12 +22875,12 @@
 22	betydelig	O	O	-
 23	manko	O	O	-
 24	på	O	O	-
-25	«	-	B-DRV	-
+25	«	O	B-DRV	-
 26	Singstar	O	I-DRV	-
 27	»	O	I-DRV	-
 28	-fantaster	O	I-DRV	-
 29	og	O	O	-
-30	Primus-fans	-	B-DRV	-
+30	Primus-fans	O	B-DRV	-
 31	.	O	O	-
 
 # sent_id = 017028
@@ -22976,7 +22976,7 @@
 1	I	O	O	-
 2	det	O	O	-
 3	første	O	O	-
-4	«	-	B-DRV	-
+4	«	O	B-DRV	-
 5	Guitar	O	I-DRV	-
 6	Hero	O	I-DRV	-
 7	»	O	I-DRV	-
@@ -23084,7 +23084,7 @@
 20	helst	O	O	-
 21	i	O	O	-
 22	et	O	O	-
-23	«	-	B-DRV	-
+23	«	O	B-DRV	-
 24	Guitar	O	I-DRV	-
 25	Hero	O	I-DRV	-
 26	»	O	I-DRV	-
@@ -23960,7 +23960,7 @@
 2	vanligvis	O	O	-
 3	så	O	O	-
 4	sindige	O	O	-
-5	NERO-løperen	-	B-DRV	-
+5	NERO-løperen	O	B-DRV	-
 6	hadde	O	O	-
 7	problemer	O	O	-
 8	med	O	O	-
@@ -25629,7 +25629,7 @@
 10	å	O	O	-
 11	be	O	O	-
 12	en	O	O	-
-13	Daily	-	B-DRV	-
+13	Daily	O	B-DRV	-
 14	Mirror-journalist	O	I-DRV	-
 15	«	O	O	-
 16	dra	O	O	-
@@ -25656,7 +25656,7 @@
 1	Som	O	O	-
 2	i	O	O	-
 3	tidligere	O	O	-
-4	«	-	B-DRV	-
+4	«	O	B-DRV	-
 5	FM	O	I-DRV	-
 6	»	O	I-DRV	-
 7	-spill	O	I-DRV	-
@@ -25728,7 +25728,7 @@
 5	tid	O	O	-
 6	å	O	O	-
 7	overbevise	O	O	-
-8	Premier	-	B-DRV	-
+8	Premier	O	B-DRV	-
 9	League-spillere	O	I-DRV	-
 10	med	O	O	-
 11	primadonnanykker	O	O	-
@@ -26156,7 +26156,7 @@
 9	en	O	O	-
 10	gang	O	O	-
 11	et	O	O	-
-12	Premier	-	B-DRV	-
+12	Premier	O	B-DRV	-
 13	League-lag	O	I-DRV	-
 14	med	O	O	-
 15	minst	O	O	-
@@ -26965,14 +26965,14 @@
 
 # sent_id = 017212
 # text = Frp-ordfører fikk nytt hjerte
-1	Frp-ordfører	-	B-DRV	-
+1	Frp-ordfører	O	B-DRV	-
 2	fikk	O	O	-
 3	nytt	O	O	-
 4	hjerte	O	O	-
 
 # sent_id = 017213
 # text = Tønsberg-ordfører Per Arne Olsen (Frp) har gjennomgått en vellykket hjertetransplantasjon ved Rikshospitalet.
-1	Tønsberg-ordfører	-	B-DRV	-
+1	Tønsberg-ordfører	O	B-DRV	-
 2	Per	B-PER	B-PER	-
 3	Arne	I-PER	I-PER	-
 4	Olsen	I-PER	I-PER	-
@@ -28012,7 +28012,7 @@
 1	Jeg	O	O	-
 2	elsker	O	O	-
 3	min	O	O	-
-4	Chanelveske	-	B-DRV	-
+4	Chanelveske	O	B-DRV	-
 5	.	O	O	-
 
 # sent_id = 017282
@@ -29147,7 +29147,7 @@
 7	Elle	O	B-PROD	-
 8	er	O	O	-
 9	en	O	O	-
-10	Birkin-bag	-	B-DRV	-
+10	Birkin-bag	O	B-DRV	-
 11	til	O	O	-
 12	33	O	O	-
 13	200	O	O	-
@@ -29181,7 +29181,7 @@
 9	så	O	O	-
 10	er	O	O	-
 11	en	O	O	-
-12	Birkin-bag	-	B-DRV	-
+12	Birkin-bag	O	B-DRV	-
 13	en	O	O	-
 14	av	O	O	-
 15	de	O	O	-
@@ -30208,7 +30208,7 @@
 4	tilfeldig	O	O	-
 5	at	O	O	-
 6	tidligere	O	O	-
-7	NDL-leder	-	B-DRV	-
+7	NDL-leder	O	B-DRV	-
 8	og	O	O	-
 9	listetopp	O	O	-
 10	for	O	O	-
@@ -31045,7 +31045,7 @@
 13	til	O	O	-
 14	den	O	O	-
 15	konkrete	O	O	-
-16	Hitler-teksten	-	B-DRV	-
+16	Hitler-teksten	O	B-DRV	-
 17	,	O	O	-
 18	som	O	O	-
 19	alle	O	O	-
@@ -31094,7 +31094,7 @@
 2	En	O	O	-
 3	del	O	O	-
 4	av	O	O	-
-5	«	-	B-DRV	-
+5	«	O	B-DRV	-
 6	min	O	I-DRV	-
 7	kamp	O	I-DRV	-
 8	»	O	I-DRV	-
@@ -31632,7 +31632,7 @@
 7	tenkt	O	O	-
 8	,	O	O	-
 9	sier	O	O	-
-10	Oktober-sjefen	-	B-DRV	-
+10	Oktober-sjefen	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 017478
@@ -35576,7 +35576,7 @@
 # sent_id = 017650
 # text = La Tafjordbygda leve
 1	La	O	O	-
-2	Tafjordbygda	-	B-DRV	-
+2	Tafjordbygda	O	B-DRV	-
 3	leve	O	O	-
 
 # sent_id = 017651
@@ -35697,7 +35697,7 @@
 4	får	O	O	-
 5	fortsette	O	O	-
 6	vil	O	O	-
-7	Tafjordbygda	-	B-DRV	-
+7	Tafjordbygda	O	B-DRV	-
 8	være	O	O	-
 9	fraflyttet	O	O	-
 10	innen	O	O	-
@@ -36235,7 +36235,7 @@
 7	det	O	O	-
 8	går	O	O	-
 9	med	O	O	-
-10	Tafjordbygda	-	B-DRV	-
+10	Tafjordbygda	O	B-DRV	-
 11	bare	O	O	-
 12	vi	O	O	-
 13	får	O	O	-
@@ -36591,7 +36591,7 @@
 38	ble	O	O	-
 39	ilandføringssted	O	O	-
 40	for	O	O	-
-41	Ormen	-	B-DRV	-
+41	Ormen	O	B-DRV	-
 42	Lange-gassen	O	I-DRV	-
 43	.	O	O	-
 
@@ -37267,12 +37267,12 @@
 4	51	O	O	-
 5	prosent	O	O	-
 6	av	O	O	-
-7	AP-velgerne	-	B-DRV	-
+7	AP-velgerne	O	B-DRV	-
 8	og	O	O	-
 9	46	O	O	-
 10	prosent	O	O	-
 11	av	O	O	-
-12	FrP-velgerne	-	B-DRV	-
+12	FrP-velgerne	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 017747
@@ -39320,7 +39320,7 @@
 10	store	O	O	-
 11	mulighetene	O	O	-
 12	for	O	O	-
-13	Kyst-Norge	-	B-DRV	-
+13	Kyst-Norge	O	B-DRV	-
 14	innen	O	O	-
 15	havbruk	O	O	-
 16	og	O	O	-
@@ -41324,7 +41324,7 @@
 3	arbeide	O	O	-
 4	for	O	O	-
 5	en	O	O	-
-6	FN-ledet	-	B-DRV	-
+6	FN-ledet	O	B-DRV	-
 7	verdensorden	O	O	-
 8	på	O	O	-
 9	grunnlag	O	O	-
@@ -41529,7 +41529,7 @@
 1	Norsk	O	O	-
 2	deltakelse	O	O	-
 3	i	O	O	-
-4	ISAF-styrkene	-	B-DRV	-
+4	ISAF-styrkene	O	B-DRV	-
 5	i	O	O	-
 6	Afghanistan	B-LOC	B-GPE_LOC	-
 7	skal	O	O	-
@@ -41824,7 +41824,7 @@
 1	I	O	O	-
 2	de	O	O	-
 3	pågående	O	O	-
-4	WTO-forhandlingene	-	B-DRV	-
+4	WTO-forhandlingene	O	B-DRV	-
 5	vil	O	O	-
 6	Regjeringen	B-ORG	B-ORG	-
 7	arbeide	O	O	-
@@ -41906,7 +41906,7 @@
 5	helhetlig	O	O	-
 6	gjennomgang	O	O	-
 7	av	O	O	-
-8	WTO-forhandlingenes	-	B-DRV	-
+8	WTO-forhandlingenes	O	B-DRV	-
 9	konsekvenser	O	O	-
 10	for	O	O	-
 11	norsk	O	O	-
@@ -43164,7 +43164,7 @@
 # sent_id = 018071
 # text = USAs FN-ambassadør Susan Rice sa i forrige uke at de vestafrikanske soldatene er dårlig egnet til å krige i ørkenen mot grupper som Ansar Dine, al-Qaida i Maghreb (Aqim) og MUJAO.
 1	USAs	B-ORG	B-GPE_ORG	-
-2	FN-ambassadør	-	B-DRV	-
+2	FN-ambassadør	O	B-DRV	-
 3	Susan	B-PER	B-PER	-
 4	Rice	I-PER	I-PER	-
 5	sa	O	O	-

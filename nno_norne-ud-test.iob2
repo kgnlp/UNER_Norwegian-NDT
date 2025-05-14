@@ -4032,7 +4032,7 @@
 # text = Jamvel om Parkinsons-pasientar kan verta hjelpte ved bruk av Levo-dopa, syner det seg at det medikamentet sluttar å ha ein effekt hjå eit fleirtal av pasientane etter nokre år.
 1	Jamvel	O	O	-
 2	om	O	O	-
-3	Parkinsons-pasientar	-	B-DRV	-
+3	Parkinsons-pasientar	O	B-DRV	-
 4	kan	O	O	-
 5	verta	O	O	-
 6	hjelpte	O	O	-
@@ -4614,7 +4614,7 @@
 7	brev	O	O	-
 8	fylte	O	O	-
 9	med	O	O	-
-10	HIV-infiserte	-	B-DRV	-
+10	HIV-infiserte	O	B-DRV	-
 11	barberblad	O	O	-
 12	har	O	O	-
 13	vorte	O	O	-
@@ -4855,7 +4855,7 @@
 16	dei	O	O	-
 17	mest	O	O	-
 18	kjende	O	O	-
-19	Labour-politikarane	-	B-DRV	-
+19	Labour-politikarane	O	B-DRV	-
 20	dei	O	O	-
 21	siste	O	O	-
 22	seksti	O	O	-
@@ -4883,7 +4883,7 @@
 7	med	O	O	-
 8	seg	O	O	-
 9	ein	O	O	-
-10	Parkinsons-pasient	-	B-DRV	-
+10	Parkinsons-pasient	O	B-DRV	-
 11	.	O	O	-
 
 # sent_id = 016340
@@ -8613,7 +8613,7 @@
 9	i	O	O	-
 10	fjor	O	O	-
 11	får	O	O	-
-12	Brennpunkt-redaksjonen	-	B-DRV	-
+12	Brennpunkt-redaksjonen	O	B-DRV	-
 13	fram	O	O	-
 14	at	O	O	-
 15	ho	O	O	-
@@ -9755,7 +9755,7 @@
 2	Jølster	B-ORG	B-GPE_ORG	-
 3	bør	O	O	-
 4	kjøpe	O	O	-
-5	Apneseth-samlinga	-	B-DRV	-
+5	Apneseth-samlinga	O	B-DRV	-
 
 # sent_id = 016608
 # text = - Jølster kommune bør sikre seg Oddleif Apneseth si unike fotosamling, seier Dagunn Klakegg i Førde.
@@ -9782,7 +9782,7 @@
 # sent_id = 016609
 # text = Men Jølster-ordføraren tvilar sterkt på om kommunen har råd.
 1	Men	O	O	-
-2	Jølster-ordføraren	-	B-DRV	-
+2	Jølster-ordføraren	O	B-DRV	-
 3	tvilar	O	O	-
 4	sterkt	O	O	-
 5	på	O	O	-
@@ -12377,7 +12377,7 @@
 # text = Nok eit Eras-utslepp
 1	Nok	O	O	-
 2	eit	O	O	-
-3	Eras-utslepp	-	B-DRV	-
+3	Eras-utslepp	O	B-DRV	-
 
 # newpar
 # sent_id = 016761
@@ -12731,7 +12731,7 @@
 4	i	O	O	-
 5	2005	O	O	-
 6	var	O	O	-
-7	Idol-deltakar	-	B-DRV	-
+7	Idol-deltakar	O	B-DRV	-
 8	,	O	O	-
 9	er	O	O	-
 10	spesielt	O	O	-
@@ -13890,7 +13890,7 @@
 18	snøvêr	O	O	-
 19	,	O	O	-
 20	oppfordrar	O	O	-
-21	Gjensidige-sjefen	-	B-DRV	-
+21	Gjensidige-sjefen	O	B-DRV	-
 22	.	O	O	-
 
 # sent_id = 016851
@@ -14312,7 +14312,7 @@
 17	prega	O	O	-
 18	dei	O	O	-
 19	seinare	O	O	-
-20	Cameron-filmane	-	B-DRV	-
+20	Cameron-filmane	O	B-DRV	-
 21	,	O	O	-
 22	blir	O	O	-
 23	det	O	O	-
@@ -14799,7 +14799,7 @@
 23	same	O	O	-
 24	familieverdiane	O	O	-
 25	som	O	O	-
-26	Hollywood-filmar	-	B-DRV	-
+26	Hollywood-filmar	O	B-DRV	-
 27	mest	O	O	-
 28	alltid	O	O	-
 29	er	O	O	-
@@ -14841,7 +14841,7 @@
 3	regel	O	O	-
 4	som	O	O	-
 5	omfattar	O	O	-
-6	Disney-klamorama	-	B-DRV	-
+6	Disney-klamorama	O	B-DRV	-
 7	for	O	O	-
 8	dei	O	O	-
 9	under	O	O	-
@@ -14850,7 +14850,7 @@
 12	så	O	O	-
 13	vel	O	O	-
 14	som	O	O	-
-15	«	-	B-DRV	-
+15	«	O	B-DRV	-
 16	Face	O	I-DRV	-
 17	Off	O	I-DRV	-
 18	»	O	I-DRV	-
@@ -15135,7 +15135,7 @@
 
 # sent_id = 016902
 # text = Hitlerregimet vann folket ved hjelp av velferdsgodar.
-1	Hitlerregimet	-	B-DRV	-
+1	Hitlerregimet	O	B-DRV	-
 2	vann	O	O	-
 3	folket	O	O	-
 4	ved	O	O	-
@@ -15181,7 +15181,7 @@
 1	Det	O	O	-
 2	som	O	O	-
 3	gjorde	O	O	-
-4	Hitler-staten	-	B-DRV	-
+4	Hitler-staten	O	B-DRV	-
 5	attraktiv	O	O	-
 6	for	O	O	-
 7	vanlege	O	O	-
@@ -16320,7 +16320,7 @@
 22	glødande	O	O	-
 23	antisemittismen	O	O	-
 24	og	O	O	-
-25	Hitler-dyrkinga	-	B-DRV	-
+25	Hitler-dyrkinga	O	B-DRV	-
 26	i	O	O	-
 27	bakgrunnen	O	O	-
 28	?	O	O	-
@@ -16468,7 +16468,7 @@
 11	av	O	O	-
 12	innbyggjarane	O	O	-
 13	i	O	O	-
-14	nazi-Tyskland	-	B-DRV	-
+14	nazi-Tyskland	O	B-DRV	-
 15	tente	O	O	-
 16	på	O	O	-
 17	krigen	O	O	-
@@ -16849,7 +16849,7 @@
 17	vart	O	O	-
 18	utnytta	O	O	-
 19	av	O	O	-
-20	Hitler-regimet	-	B-DRV	-
+20	Hitler-regimet	O	B-DRV	-
 21	.	O	O	-
 
 # sent_id = 016986
@@ -16927,7 +16927,7 @@
 2	Det	O	O	-
 3	som	O	O	-
 4	gjorde	O	O	-
-5	Hitler-staten	-	B-DRV	-
+5	Hitler-staten	O	B-DRV	-
 6	attraktiv	O	O	-
 7	for	O	O	-
 8	vanlege	O	O	-
@@ -16958,7 +16958,7 @@
 1	Dette	O	O	-
 2	er	O	O	-
 3	gårsdagens	O	O	-
-4	Med	-	B-DRV	-
+4	Med	O	B-DRV	-
 5	andre	O	I-DRV	-
 6	ord-tekst	O	I-DRV	-
 7	i	O	O	-
@@ -17860,7 +17860,7 @@
 6	regimet	O	O	-
 7	for	O	O	-
 8	«	O	O	-
-9	Arbeiderpartistaten	-	B-DRV	-
+9	Arbeiderpartistaten	O	B-DRV	-
 10	»	O	O	-
 11	med	O	O	-
 12	tilsikta	O	O	-
@@ -21509,7 +21509,7 @@
 6	tilsette	O	O	-
 7	på	O	O	-
 8	det	O	O	-
-9	Adecco-drivne	-	B-DRV	-
+9	Adecco-drivne	O	B-DRV	-
 10	Ammerudlunden	B-ORG	B-ORG	-
 11	sjukeheim	I-ORG	I-ORG	-
 12	jobba	O	O	-
@@ -21590,7 +21590,7 @@
 3	sida	O	O	-
 4	er	O	O	-
 5	det	O	O	-
-6	Fagforbundet-leiar	-	B-DRV	-
+6	Fagforbundet-leiar	O	B-DRV	-
 7	Jan	B-PER	B-PER	-
 8	Davidsen	I-PER	I-PER	-
 9	og	O	O	-
@@ -21621,7 +21621,7 @@
 7	av	O	O	-
 8	di	O	O	-
 9	både	O	O	-
-10	Høgre-leiar	-	B-DRV	-
+10	Høgre-leiar	O	B-DRV	-
 11	Erna	B-PER	B-PER	-
 12	Solberg	I-PER	I-PER	-
 13	og	O	O	-
@@ -21687,9 +21687,9 @@
 36	godt	O	O	-
 37	hjelpte	O	O	-
 38	av	O	O	-
-39	Høgre-	-	B-DRV	-
+39	Høgre-	O	B-DRV	-
 40	og	O	O	-
-41	Frp-politikarar	-	B-DRV	-
+41	Frp-politikarar	O	B-DRV	-
 42	som	O	O	-
 43	ikkje	O	O	-
 44	nett	O	O	-
@@ -26063,13 +26063,13 @@
 2	Marianne	B-PER	B-PER	-
 3	Wienenga	I-PER	I-PER	-
 4	og	O	O	-
-5	SLT-koordinator	-	B-DRV	-
+5	SLT-koordinator	O	B-DRV	-
 6	Silje	B-PER	B-PER	-
 7	Hagen	I-PER	I-PER	-
 8	er	O	O	-
 9	nøgde	O	O	-
 10	med	O	O	-
-11	SLT-samarbeidet	-	B-DRV	-
+11	SLT-samarbeidet	O	B-DRV	-
 12	i	O	O	-
 13	Vinje	B-LOC	B-GPE_LOC	-
 14	kommune	I-LOC	I-GPE_LOC	-
@@ -26678,7 +26678,7 @@
 19	dei	O	O	-
 20	får	O	O	-
 21	gjennom	O	O	-
-22	SLT-samarbeidet	-	B-DRV	-
+22	SLT-samarbeidet	O	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 017432

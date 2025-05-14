@@ -2113,7 +2113,7 @@
 14	desse	O	O	-
 15	dagar	O	O	-
 16	vert	O	O	-
-17	IMF-kontoret	-	B-DRV	-
+17	IMF-kontoret	O	B-DRV	-
 18	der	O	O	-
 19	stengt	O	O	-
 20	.	O	O	-
@@ -5067,7 +5067,7 @@
 7	vanleg	O	O	-
 8	den	O	O	-
 9	unge	O	O	-
-10	Harvard-utdana	-	B-DRV	-
+10	Harvard-utdana	O	B-DRV	-
 11	ordføraren	O	O	-
 12	vi	O	O	-
 13	møtte	O	O	-
@@ -6633,7 +6633,7 @@
 
 # sent_id = 014534
 # text = FN-sporet
-1	FN-sporet	-	B-DRV	-
+1	FN-sporet	O	B-DRV	-
 
 # sent_id = 014535
 # text = - Kva rolle kan den palestinske framstøyten andsynes FN spele?
@@ -7184,7 +7184,7 @@
 17	israelske	O	O	-
 18	åtaket	O	O	-
 19	på	O	O	-
-20	Gaza-flotiljen	-	B-DRV	-
+20	Gaza-flotiljen	O	B-DRV	-
 21	i	O	O	-
 22	internasjonalt	O	O	-
 23	farvatn	O	O	-
@@ -8972,7 +8972,7 @@
 2	som	O	O	-
 3	dei	O	O	-
 4	fleste	O	O	-
-5	Dag	-	B-DRV	-
+5	Dag	O	B-DRV	-
 6	og	O	I-DRV	-
 7	Tid-lesarar	O	I-DRV	-
 8	vel	O	O	-
@@ -9266,7 +9266,7 @@
 14	,	O	O	-
 15	som	O	O	-
 16	er	O	O	-
-17	EØS-rådgjevar	-	B-DRV	-
+17	EØS-rådgjevar	O	B-DRV	-
 18	for	O	O	-
 19	SV	B-ORG	B-ORG	-
 20	og	O	O	-
@@ -9280,7 +9280,7 @@
 28	aller	O	O	-
 29	mest	O	O	-
 30	av	O	O	-
-31	EU-rettsaktene	-	B-DRV	-
+31	EU-rettsaktene	O	B-DRV	-
 32	.	O	O	-
 
 # sent_id = 014660
@@ -9394,7 +9394,7 @@
 # sent_id = 014667
 # text = Når EU-rettsaktene fører til lovendring, må Stortinget godkjenne dei.
 1	Når	O	O	-
-2	EU-rettsaktene	-	B-DRV	-
+2	EU-rettsaktene	O	B-DRV	-
 3	fører	O	O	-
 4	til	O	O	-
 5	lovendring	O	O	-
@@ -9744,7 +9744,7 @@
 5	at	O	O	-
 6	handsaminga	O	O	-
 7	av	O	O	-
-8	EØS-sakene	-	B-DRV	-
+8	EØS-sakene	O	B-DRV	-
 9	i	O	O	-
 10	Stortinget	B-ORG	B-ORG	-
 11	var	O	O	-
@@ -9854,7 +9854,7 @@
 4	handsama	O	O	-
 5	meldinga	O	O	-
 6	om	O	O	-
-7	Europa-politikken	-	B-DRV	-
+7	Europa-politikken	O	B-DRV	-
 8	i	O	O	-
 9	fjor	O	O	-
 10	,	O	O	-
@@ -9931,7 +9931,7 @@
 # text = Valle er SV-medlem i utanrikskomiteen og dermed i Europautvalet.
 1	Valle	B-PER	B-PER	-
 2	er	O	O	-
-3	SV-medlem	-	B-DRV	-
+3	SV-medlem	O	B-DRV	-
 4	i	O	O	-
 5	utanrikskomiteen	O	O	-
 6	og	O	O	-
@@ -10207,7 +10207,7 @@
 6	av	O	O	-
 7	handtering	O	O	-
 8	av	O	O	-
-9	EU-direktiva	-	B-DRV	-
+9	EU-direktiva	O	B-DRV	-
 10	forsvarlege	O	O	-
 11	?	O	O	-
 
@@ -10372,7 +10372,7 @@
 7	opplyst	O	O	-
 8	samtale	O	O	-
 9	om	O	O	-
-10	EU-saker	-	B-DRV	-
+10	EU-saker	O	B-DRV	-
 11	,	O	O	-
 12	kan	O	O	-
 13	vi	O	O	-
@@ -10489,7 +10489,7 @@
 9	har	O	O	-
 10	til	O	O	-
 11	norsk	O	O	-
-12	EU-medlemskap	-	B-DRV	-
+12	EU-medlemskap	O	B-DRV	-
 13	.	O	O	-
 
 # sent_id = 014725
@@ -10603,7 +10603,7 @@
 10	som	O	O	-
 11	er	O	O	-
 12	mot	O	O	-
-13	EU-medlemskap	-	B-DRV	-
+13	EU-medlemskap	O	B-DRV	-
 14	og	O	O	-
 15	før	O	O	-
 16	EØS-avtalen	O	B-PROD	-
@@ -10687,7 +10687,7 @@
 # text = Han opplever EØS-sakene svært annleis som stortingsrepresentant enn han gjorde som statsråd.
 1	Han	O	O	-
 2	opplever	O	O	-
-3	EØS-sakene	-	B-DRV	-
+3	EØS-sakene	O	B-DRV	-
 4	svært	O	O	-
 5	annleis	O	O	-
 6	som	O	O	-
@@ -10714,7 +10714,7 @@
 11	for	O	O	-
 12	første	O	O	-
 13	gong	O	O	-
-14	EØS-systemet	-	B-DRV	-
+14	EØS-systemet	O	B-DRV	-
 15	frå	O	O	-
 16	stortingssida	O	O	-
 17	.	O	O	-
@@ -10822,7 +10822,7 @@
 19	i	O	O	-
 20	arbeidet	O	O	-
 21	med	O	O	-
-22	EØS-saker	-	B-DRV	-
+22	EØS-saker	O	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 014740
@@ -10971,7 +10971,7 @@
 27	1927	O	O	-
 28	,	O	O	-
 29	i	O	O	-
-30	Samlag-serien	-	B-DRV	-
+30	Samlag-serien	O	B-DRV	-
 31	«	O	O	-
 32	Klassiske	O	B-PROD	-
 33	bokverk	O	I-PROD	-
@@ -13586,7 +13586,7 @@
 5	pussa	O	O	-
 6	opp	O	O	-
 7	med	O	O	-
-8	Rekkedals-midlar	-	B-DRV	-
+8	Rekkedals-midlar	O	B-DRV	-
 9	på	O	O	-
 10	80-talet	O	O	-
 11	.	O	O	-
@@ -13681,11 +13681,11 @@
 # text = Tone er MPG-klar
 1	Tone	B-PER	B-PER	-
 2	er	O	O	-
-3	MPG-klar	-	B-DRV	-
+3	MPG-klar	O	B-DRV	-
 
 # sent_id = 014889
 # text = Idolsirkuset gav Tone Damli Aaberge (17) frå Sogndal ein flying start på songkarrièra.
-1	Idolsirkuset	-	B-DRV	-
+1	Idolsirkuset	O	B-DRV	-
 2	gav	O	O	-
 3	Tone	B-PER	B-PER	-
 4	Damli	I-PER	I-PER	-
@@ -13779,7 +13779,7 @@
 17	mot	O	O	-
 18	ei	O	O	-
 19	ekte	O	O	-
-20	Melodi	-	B-DRV	-
+20	Melodi	O	B-DRV	-
 21	Grand	O	I-DRV	-
 22	Prix-dronning	O	I-DRV	-
 23	.	O	O	-
@@ -14151,7 +14151,7 @@
 5	Aaberge	I-PER	I-PER	-
 6	ser	O	O	-
 7	på	O	O	-
-8	Melodi	-	B-DRV	-
+8	Melodi	O	B-DRV	-
 9	Grand	O	I-DRV	-
 10	Prix-deltakinga	O	I-DRV	-
 11	som	O	O	-
@@ -14335,7 +14335,7 @@
 19	staden	O	O	-
 20	i	O	O	-
 21	to	O	O	-
-22	BMWar	-	B-DRV	-
+22	BMWar	O	B-DRV	-
 23	.	O	O	-
 
 # sent_id = 014936
@@ -15966,7 +15966,7 @@
 
 # sent_id = 015037
 # text = Distriktnorge er kjent for å vere bakpå og intolerant.
-1	Distriktnorge	-	B-DRV	-
+1	Distriktnorge	O	B-DRV	-
 2	er	O	O	-
 3	kjent	O	O	-
 4	for	O	O	-
@@ -20664,7 +20664,7 @@
 11	rapport	O	O	-
 12	frå	O	O	-
 13	«	O	O	-
-14	white	-	B-DRV	-
+14	white	O	B-DRV	-
 15	trash-USA	O	I-DRV	-
 16	»	O	O	-
 17	og	O	O	-
@@ -22790,7 +22790,7 @@
 
 # sent_id = 015400
 # text = NHO-direktør Tor Hersoug veit kvar han står:
-1	NHO-direktør	-	B-DRV	-
+1	NHO-direktør	O	B-DRV	-
 2	Tor	B-PER	B-PER	-
 3	Hersoug	I-PER	I-PER	-
 4	veit	O	O	-
@@ -22926,7 +22926,7 @@
 18	i	O	O	-
 19	forkant	O	O	-
 20	av	O	O	-
-21	Gats-forhandlingane	-	B-DRV	-
+21	Gats-forhandlingane	O	B-DRV	-
 22	og	O	O	-
 23	handel	O	O	-
 24	med	O	O	-
@@ -22950,7 +22950,7 @@
 13	i	O	O	-
 14	kombinasjon	O	O	-
 15	med	O	O	-
-16	Gats-reglane	-	B-DRV	-
+16	Gats-reglane	O	B-DRV	-
 17	opnar	O	O	-
 18	den	O	O	-
 19	norske	O	O	-
@@ -22964,7 +22964,7 @@
 # text = No understrekar NHO-direktør Hersoug at det er nettopp ei slik opning organisasjonen Clemet kjem frå går inn for.
 1	No	O	O	-
 2	understrekar	O	O	-
-3	NHO-direktør	-	B-DRV	-
+3	NHO-direktør	O	B-DRV	-
 4	Hersoug	B-PER	B-PER	-
 5	at	O	O	-
 6	det	O	O	-
@@ -23014,7 +23014,7 @@
 6	full	O	O	-
 7	fart	O	O	-
 8	i	O	O	-
-9	Gats-prosessen	-	B-DRV	-
+9	Gats-prosessen	O	B-DRV	-
 10	.	O	O	-
 
 # sent_id = 015412
@@ -23116,7 +23116,7 @@
 7	,	O	O	-
 8	på	O	O	-
 9	eit	O	O	-
-10	WTO-møte	-	B-DRV	-
+10	WTO-møte	O	B-DRV	-
 11	i	O	O	-
 12	Singapore	B-LOC	B-GPE_LOC	-
 13	.	O	O	-
@@ -23244,7 +23244,7 @@
 # sent_id = 015430
 # text = I EU-landa arbeider 67 millionar menneske, over to tredelar av alle tilsette, i tenesteproduksjon.
 1	I	O	O	-
-2	EU-landa	-	B-DRV	-
+2	EU-landa	O	B-DRV	-
 3	arbeider	O	O	-
 4	67	O	O	-
 5	millionar	O	O	-
@@ -23291,7 +23291,7 @@
 3	veks	O	O	-
 4	i	O	O	-
 5	alle	O	O	-
-6	OECD-landa	-	B-DRV	-
+6	OECD-landa	O	B-DRV	-
 7	.	O	O	-
 
 # sent_id = 015434
@@ -23625,7 +23625,7 @@
 11	ressursar	O	O	-
 12	,	O	O	-
 13	proklamerer	O	O	-
-14	NHO-direktøren	-	B-DRV	-
+14	NHO-direktøren	O	B-DRV	-
 15	.	O	O	-
 
 # sent_id = 015461
@@ -24012,7 +24012,7 @@
 
 # sent_id = 015481
 # text = WTO-låsen
-1	WTO-låsen	-	B-DRV	-
+1	WTO-låsen	O	B-DRV	-
 
 # sent_id = 015482
 # text = Vi veit at samfunnsøkonomien blir meir og meir dominert av tenester i dei rike landa.
@@ -24725,14 +24725,14 @@
 10	seg	O	O	-
 11	inn	O	O	-
 12	i	O	O	-
-13	Gats-regelverket	-	B-DRV	-
+13	Gats-regelverket	O	B-DRV	-
 14	?	O	O	-
 
 # sent_id = 015524
 # text = Når alle WTO-avtalane er ferdige, blir det mange tusen sider, veit du.
 1	Når	O	O	-
 2	alle	O	O	-
-3	WTO-avtalane	-	B-DRV	-
+3	WTO-avtalane	O	B-DRV	-
 4	er	O	O	-
 5	ferdige	O	O	-
 6	,	O	O	-
@@ -24810,7 +24810,7 @@
 10	rekka	O	O	-
 11	av	O	O	-
 12	«	O	O	-
-13	Terminator-filmar	-	B-DRV	-
+13	Terminator-filmar	O	B-DRV	-
 14	»	O	O	-
 15	.	O	O	-
 
@@ -24986,9 +24986,9 @@
 13	logiske	O	O	-
 14	utfordringa	O	O	-
 15	i	O	O	-
-16	Terminator-historia	-	B-DRV	-
+16	Terminator-historia	O	B-DRV	-
 17	og	O	O	-
-18	Connor-genealogien	-	B-DRV	-
+18	Connor-genealogien	O	B-DRV	-
 19	:	O	O	-
 
 # sent_id = 015538
@@ -25220,7 +25220,7 @@
 27	sette	O	O	-
 28	mot	O	O	-
 29	i	O	O	-
-30	Bush-troppane	-	B-DRV	-
+30	Bush-troppane	O	B-DRV	-
 31	i	O	O	-
 32	Irak	B-LOC	B-GPE_LOC	-
 33	både	O	O	-
@@ -25279,7 +25279,7 @@
 31	ny	O	O	-
 32	episode	O	O	-
 33	i	O	O	-
-34	Terminator-franchisen	-	B-DRV	-
+34	Terminator-franchisen	O	B-DRV	-
 35	er	O	O	-
 36	på	O	O	-
 37	veg	O	O	-
@@ -25599,7 +25599,7 @@
 23	i	O	O	-
 24	Shinja	B-PER	B-PER	-
 25	Tsukamotos	I-PER	I-PER	-
-26	«	-	B-DRV	-
+26	«	O	B-DRV	-
 27	Tetsuo	O	I-DRV	-
 28	»	O	I-DRV	-
 29	-filmar	O	I-DRV	-
@@ -25708,7 +25708,7 @@
 13	dei	O	O	-
 14	i	O	O	-
 15	«	O	O	-
-16	Terminator-filmane	-	B-DRV	-
+16	Terminator-filmane	O	B-DRV	-
 17	»	O	O	-
 18	også	O	O	-
 19	,	O	O	-
@@ -25883,7 +25883,7 @@
 16	det	O	O	-
 17	høgkommersielle	O	O	-
 18	og	O	O	-
-19	Washington-lojale	-	B-DRV	-
+19	Washington-lojale	O	B-DRV	-
 20	Hollywood	B-ORG	B-ORG	-
 21	,	O	O	-
 22	med	O	O	-
@@ -31383,7 +31383,7 @@
 1	Då	O	O	-
 2	me	O	O	-
 3	sjekka	O	O	-
-4	Borsæ-isen	-	B-DRV	-
+4	Borsæ-isen	O	B-DRV	-
 5	litt	O	O	-
 6	tidlegare	O	O	-
 7	,	O	O	-
@@ -31469,7 +31469,7 @@
 
 # sent_id = 015782
 # text = Raude Kross-laget har 4-5 vakter til stades på hytta heile påska.
-1	Raude	-	B-DRV	-
+1	Raude	O	B-DRV	-
 2	Kross-laget	O	I-DRV	-
 3	har	O	O	-
 4	4	O	O	-
@@ -34539,7 +34539,7 @@
 21	Tveiten	I-PER	I-PER	-
 22	,	O	O	-
 23	og	O	O	-
-24	KrF-representantane	-	B-DRV	-
+24	KrF-representantane	O	B-DRV	-
 25	Astrid	B-PER	B-PER	-
 26	Eidem	I-PER	I-PER	-
 27	Nordal	I-PER	I-PER	-
